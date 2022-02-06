@@ -1,0 +1,71 @@
+h1 {
+    margin: auto;
+}
+img {
+    float: left;
+    margin: 10px;
+    width: 25%;
+}
+.header {
+    text-align: center; 
+    padding: 20px; 
+    background-color: rgba(0, 183, 255, 0.562);
+    color: blue; 
+    font-weight: bold;
+}
+.fon {
+    background-color: rgb(253, 255, 144); 
+}
+.menu {
+    float: left;
+    min-height: 50px;
+    width: 200px;
+}
+.textmenu {
+    font-weight: bold;
+}
+.link:hover {
+    color:red;
+}
+.clear {
+    clear: both;
+}
+.news {
+    float: right;
+    min-height: 50px;
+    width: 200px;
+}
+.textnews {
+    font-size: 13px;
+    text-align: justify;
+    margin-left: 8px;
+    margin-right: 8px;
+    font-style: italic;
+    font-weight: bold;
+}
+.textnews:hover {
+    color: blue;
+}
+.maincolumn {
+    margin-left: 200px;
+    margin-right: 200px;
+    background: url(ball.png) right top repeat-y;
+    background-size: 50px 50px;
+    background-color: white; 
+}
+.colorwhite {
+    background: rgba(255, 255, 255, 0.7);
+}
+.textmaincolumn {
+    text-align: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.basement {
+    text-align: center; 
+    padding: 20px; 
+    background-color: rgba(0, 183, 255, 0.562);
+    color: blue; 
+    font-weight: bold;
+}
+
