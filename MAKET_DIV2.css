@@ -21,7 +21,7 @@ img {
     min-height: 50px;
     width: 200px;
 }
-.textmenu {
+.text-menu {
     font-weight: bold;
 }
 .link:hover {
@@ -35,7 +35,7 @@ img {
     min-height: 50px;
     width: 200px;
 }
-.textnews {
+.text-news {
     font-size: 13px;
     text-align: justify;
     margin-left: 8px;
@@ -43,20 +43,20 @@ img {
     font-style: italic;
     font-weight: bold;
 }
-.textnews:hover {
+.text-news:hover {
     color: blue;
 }
-.maincolumn {
+.main-column {
     margin-left: 200px;
     margin-right: 200px;
     background: url(ball.png) right top repeat-y;
     background-size: 50px 50px;
     background-color: white; 
 }
-.colorwhite {
+.color-white {
     background: rgba(255, 255, 255, 0.7);
 }
-.textmaincolumn {
+.text-main-column {
     text-align: left;
     margin-left: 10px;
     margin-right: 10px;
